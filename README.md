@@ -1,12 +1,18 @@
-
 # ![Header Image](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&amp;ssl=1)
 
-<h1 align="center">🏆 Apple Swift Student Challenge Winner 2024 - Ahmed Aziz Rebhi!</h1>
+<h1 align="center">🏆 Apple Swift Student Challenge Winner 2024</h1>
 
-👋 Hi, I'm Ahmed Aziz Rebhi, an **Award-Winning Software Engineer**, **AI Innovator**, and **Mobile Development Expert**! My journey in tech has been fueled by a passion for cutting-edge solutions and a drive for excellence. Winning the **Apple Swift Student Challenge 2024** with my app *NewRoot* is just the beginning of my story! 🚀
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Trophy GIF" width="300">
+</div>
+
+<h2 align="center">👋 Hi, I'm Ahmed Aziz Rebhi</h2>
+
+<p align="center">
+  <strong>Award-Winning Software Engineer • AI Innovator • Mobile Development Expert</strong>
+</p>
 
 ---
-
 ## 🏆 My Achievements at a Glance
 
 - 🥇 **Apple Swift Student Challenge Winner 2024**: Created *NewRoot*, a groundbreaking iOS app that blends AR, storytelling, and education using advanced technologies like **SwiftUI**, **RealityKit**, and **ARKit**.
@@ -15,43 +21,47 @@
 
 ---
 
-## 📱 **Tech Stack**
+## 🛠️ Technical Expertise
 
 ### **Mobile Development**
-<div align="center">
-  <img src="https://media.giphy.com/media/ZvLUtCwKEGFSgOsNo2/giphy.gif" alt="Mobile Development GIF" width="150">
-</div>
-
-- **Flutter**: Expert in cross-platform mobile development.
-- **Kotlin**: Robust native Android development.
-- **Swift**: Specialized in **ARKit** and **RealityKit**.
+- **Flutter**: Mastery in cross-platform mobile development with frameworks like **BLoC**, **Provider**, and **GetX**.
+- **Android (Kotlin)**: Building robust and scalable native Android applications.
+- **iOS (Swift)**: Specialized in **SwiftUI** and advanced tools like **VisionKit** and **SceneKit**.
 
 ### **AI & Machine Learning**
-<div align="center">
-  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" alt="AI GIF" width="150">
-</div>
+- Advanced Object Detection with **YOLO** and **TensorFlow**: Achieved a **37% improvement** in accuracy during security systems optimization.
+- **NLP and Transformers**: Leveraging state-of-the-art models for text analysis and language processing.
+- **AI-Powered Applications**: Integrated AI models for real-time device detection, achieving **88% accuracy boost** in IoT applications.
 
-- Advanced Object Detection using **YOLO** and **TensorFlow**.
-- NLP models for real-time analysis.
-- AI-powered IoT applications with **88% accuracy boost**.
+### **Backend Development**
+- **Spring Boot**: Developing enterprise-grade applications with scalable microservices architecture.
+- **Node.js**: Efficient API and server development.
+
+### **DevOps Tools**
+- **Docker & Jenkins**: Ensuring seamless CI/CD pipelines.
+- **Firebase**: Real-time database management and cloud integration.
+- **SonarQube**: Code quality assurance.
 
 ---
 
+## 📱 Projects That Define Me
 
-## 🌟 **Highlighted Projects**
-<div align="center">
-  <img src="https://media.giphy.com/media/U8hQsKpM92i8xBNfVv/giphy.gif" alt="Projects GIF" width="200">
-</div>
-
-### **NewRoot**
-- Apple Swift Student Challenge Winner.
-- Combines AR and storytelling using **RealityKit** and **SwiftUI**.
+### **NewRoot - Apple Swift Student Challenge Winner**
+- **Award-Winning App**: Combines storytelling and AR to create an educational journey for kids experiencing frequent relocations.
+- **Tech Stack**: **SwiftUI**, **RealityKit**, **ARKit**, **SceneKit**, **VisionKit**.
 
 ### **Cazador**
-- Real-time wild boar detection powered by AI and drones.
-- Built-in GPS for precise location tracking.
+- **AI and Drone-Driven Wild Boar Detection**: Enhancing hunter safety with real-time location tracking.
+- **Community-Centric**: Built-in GPS navigation and social platform for hunters.
+
+### **Abwaab Learning Platform**
+- **Flutter Excellence**: Delivered engaging experiences with custom UI components, animations, and real-time quizzes.
+
+### **SFM Connect**
+- **AI IoT Solution**: Monitored energy consumption with AI models, Firebase, and seamless device management.
 
 ---
+
 
 ## 📊 Skills Snapshot
 
