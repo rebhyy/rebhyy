@@ -54,12 +54,16 @@
   <a href="https://play.google.com/store/apps/details?id=me.abwaab.abwaabv2_app&hl=en">
     <img src="https://d1mz42c605vx40.cloudfront.net/logos/abwaab-logo-with-text.jpg" alt="Abwaab App Screenshot" width="300">
   </a>
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=me.abwaab.abwaabv2_app&hl=en">
+    <img alt="Google Play Badge" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="60px">
+  </a>
+  <a href="https://apps.apple.com/us/app/abwaab/id1623367993">
+    <img alt="iOS App Store Badge" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Download_on_the_App_Store_Badge.svg" height="60px">
+  </a>
 </div>
 
 - **Flutter Excellence**: Delivered engaging experiences with custom UI components, animations, and real-time quizzes.
-- **Available on Google Play**: [Download Abwaab](https://play.google.com/store/apps/details?id=me.abwaab.abwaabv2_app&hl=en)
-
----
 
 ### **SFM Connect**
 - **AI IoT Solution**: Monitored energy consumption with AI models, Firebase, and seamless device management.
