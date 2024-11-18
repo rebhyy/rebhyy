@@ -16,7 +16,7 @@
 
 ## 🚀 **Achievements at a Glance**
 <div align="center">
-  <img src="https://i.pinimg.com/originals/88/40/b8/8840b8d2c07bf805cdab22c0e4b54f59.gif" alt="Achievements GIF" width="200">
+  <img src="https://i.pinimg.com/originals/88/40/b8/8840b8d2c07bf805cdab22c0e4b54f59.gif" alt="Achievements GIF" width="300">
 </div>
 
 - 🏆 **Apple Swift Student Challenge Winner 2024**: Developed *NewRoot*, a groundbreaking AR iOS app.
@@ -48,23 +48,45 @@
 
 ---
 
-## 📱 Projects That Define Me
+## 🌟 **Highlighted Projects**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Projects GIF" width="300">
+</div>
 
 ### **NewRoot - Apple Swift Student Challenge Winner**
 - **Award-Winning App**: Combines storytelling and AR to create an educational journey for kids experiencing frequent relocations.
 - **Tech Stack**: **SwiftUI**, **RealityKit**, **ARKit**, **SceneKit**, **VisionKit**.
 
+---
+
 ### **Cazador**
+<div align="center">
+  <a href="https://youtu.be/eQggJKl1JPY">
+    <img src="https://img.youtube.com/vi/eQggJKl1JPY/0.jpg" alt="Cazador YouTube Thumbnail" width="400">
+  </a>
+</div>
+
 - **AI and Drone-Driven Wild Boar Detection**: Enhancing hunter safety with real-time location tracking.
 - **Community-Centric**: Built-in GPS navigation and social platform for hunters.
+- **Watch the Demo**: [Cazador in Action](https://youtu.be/eQggJKl1JPY)
+
+---
 
 ### **Abwaab Learning Platform**
+<div align="center">
+  <a href="https://play.google.com/store/apps/details?id=me.abwaab.abwaabv2_app&hl=en">
+    <img src="https://play-lh.googleusercontent.com/EWQ8pZROej_tT0nOBPKEzqVoN1kcl-j7alvrUgb82c8q3RyT7H9WrW6yBlzpaA=w2560-h1440-rw" alt="Abwaab App Screenshot" width="400">
+  </a>
+</div>
+
 - **Flutter Excellence**: Delivered engaging experiences with custom UI components, animations, and real-time quizzes.
+- **Available on Google Play**: [Download Abwaab](https://play.google.com/store/apps/details?id=me.abwaab.abwaabv2_app&hl=en)
+
+---
 
 ### **SFM Connect**
 - **AI IoT Solution**: Monitored energy consumption with AI models, Firebase, and seamless device management.
-
----
+- **Tech Stack**: **Flutter**, **Firebase**, **AI Models**.
 
 
 ## 📊 Skills Snapshot
