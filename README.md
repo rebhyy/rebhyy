@@ -96,5 +96,3 @@
 - 📧 **Email**: [ahmedaziz.rebhi@esprit.tn](mailto:ahmedaziz.rebhi@esprit.tn)
 - 💼 **LinkedIn**: [linkedin.com/in/ahmed-rebhi-726530202/](https://linkedin.com/in/ahmed-rebhi-726530202/)
 - 🖥️ **GitHub**: [github.com/rebhyy](https://github.com/rebhyy)
-
-![Contribution GIF Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
