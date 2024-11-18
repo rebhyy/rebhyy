@@ -3,7 +3,7 @@
 <h1 align="center">🏆 Apple Swift Student Challenge Winner 2024</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Trophy GIF" width="300">
+  <img src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/97e3bc07ac5ca76150df36be8e142336.gif" alt="Trophy GIF" width="300">
 </div>
 
 <h2 align="center">👋 Hi, I'm Ahmed Aziz Rebhi</h2>
