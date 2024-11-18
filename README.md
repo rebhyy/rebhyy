@@ -38,24 +38,20 @@
 
 ---
 
-## 📱 Projects That Define Me
+## 🌟 **Highlighted Projects**
+<div align="center">
+  <img src="https://media.giphy.com/media/U8hQsKpM92i8xBNfVv/giphy.gif" alt="Projects GIF" width="200">
+</div>
 
-### **NewRoot - Apple Swift Student Challenge Winner**
-- **Award-Winning App**: Combines storytelling and AR to create an educational journey for kids experiencing frequent relocations.
-- **Tech Stack**: **SwiftUI**, **RealityKit**, **ARKit**, **SceneKit**, **VisionKit**.
+### **NewRoot**
+- Apple Swift Student Challenge Winner.
+- Combines AR and storytelling using **RealityKit** and **SwiftUI**.
 
 ### **Cazador**
-- **AI and Drone-Driven Wild Boar Detection**: Enhancing hunter safety with real-time location tracking.
-- **Community-Centric**: Built-in GPS navigation and social platform for hunters.
-
-### **Abwaab Learning Platform**
-- **Flutter Excellence**: Delivered engaging experiences with custom UI components, animations, and real-time quizzes.
-
-### **SFM Connect**
-- **AI IoT Solution**: Monitored energy consumption with AI models, Firebase, and seamless device management.
+- Real-time wild boar detection powered by AI and drones.
+- Built-in GPS for precise location tracking.
 
 ---
-
 
 ## 📊 Skills Snapshot
 
