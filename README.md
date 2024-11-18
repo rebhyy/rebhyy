@@ -25,29 +25,6 @@
 
 ---
 
-## 🛠️ Technical Expertise
-
-### **Mobile Development**
-- **Flutter**: Mastery in cross-platform mobile development with frameworks like **BLoC**, **Provider**, and **GetX**.
-- **Android (Kotlin)**: Building robust and scalable native Android applications.
-- **iOS (Swift)**: Specialized in **SwiftUI** and advanced tools like **VisionKit** and **SceneKit**.
-
-### **AI & Machine Learning**
-- Advanced Object Detection with **YOLO** and **TensorFlow**: Achieved a **37% improvement** in accuracy during security systems optimization.
-- **NLP and Transformers**: Leveraging state-of-the-art models for text analysis and language processing.
-- **AI-Powered Applications**: Integrated AI models for real-time device detection, achieving **88% accuracy boost** in IoT applications.
-
-### **Backend Development**
-- **Spring Boot**: Developing enterprise-grade applications with scalable microservices architecture.
-- **Node.js**: Efficient API and server development.
-
-### **DevOps Tools**
-- **Docker & Jenkins**: Ensuring seamless CI/CD pipelines.
-- **Firebase**: Real-time database management and cloud integration.
-- **SonarQube**: Code quality assurance.
-
----
-
 ## 🌟 **Highlighted Projects**
 <div align="center">
   <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Projects GIF" width="300">
@@ -75,7 +52,7 @@
 ### **Abwaab Learning Platform**
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=me.abwaab.abwaabv2_app&hl=en">
-    <img src="https://play-lh.googleusercontent.com/EWQ8pZROej_tT0nOBPKEzqVoN1kcl-j7alvrUgb82c8q3RyT7H9WrW6yBlzpaA=w2560-h1440-rw" alt="Abwaab App Screenshot" width="400">
+    <img src="https://d1mz42c605vx40.cloudfront.net/logos/abwaab-logo-with-text.jpg" alt="Abwaab App Screenshot" width="300">
   </a>
 </div>
 
@@ -115,6 +92,29 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+---
+
+## 🛠️ Technical Expertise
+
+### **Mobile Development**
+- **Flutter**: Mastery in cross-platform mobile development with frameworks like **BLoC**, **Provider**, and **GetX**.
+- **Android (Kotlin)**: Building robust and scalable native Android applications.
+- **iOS (Swift)**: Specialized in **SwiftUI** and advanced tools like **VisionKit** and **SceneKit**.
+
+### **AI & Machine Learning**
+- Advanced Object Detection with **YOLO** and **TensorFlow**: Achieved a **37% improvement** in accuracy during security systems optimization.
+- **NLP and Transformers**: Leveraging state-of-the-art models for text analysis and language processing.
+- **AI-Powered Applications**: Integrated AI models for real-time device detection, achieving **88% accuracy boost** in IoT applications.
+
+### **Backend Development**
+- **Spring Boot**: Developing enterprise-grade applications with scalable microservices architecture.
+- **Node.js**: Efficient API and server development.
+
+### **DevOps Tools**
+- **Docker & Jenkins**: Ensuring seamless CI/CD pipelines.
+- **Firebase**: Real-time database management and cloud integration.
+- **SonarQube**: Code quality assurance.
 
 ---
 
