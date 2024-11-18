@@ -13,11 +13,15 @@
 </p>
 
 ---
-## 🏆 My Achievements at a Glance
 
-- 🥇 **Apple Swift Student Challenge Winner 2024**: Created *NewRoot*, a groundbreaking iOS app that blends AR, storytelling, and education using advanced technologies like **SwiftUI**, **RealityKit**, and **ARKit**.
-- 🥇 **1st Place - Empower X-Hack**: Innovated a Smart Water Irrigation System powered by **Hedera Blockchain** and **Drone Technology**.
-- 🎖️ **Best Project of the Year - Bal de Projet**: Recognized for *Cazador*, an AI-driven app enhancing wild boar hunting safety.
+## 🚀 **Achievements at a Glance**
+<div align="center">
+  <img src="https://i.pinimg.com/originals/88/40/b8/8840b8d2c07bf805cdab22c0e4b54f59.gif" alt="Achievements GIF" width="200">
+</div>
+
+- 🏆 **Apple Swift Student Challenge Winner 2024**: Developed *NewRoot*, a groundbreaking AR iOS app.
+- 🥇 **1st Place - Empower X-Hack**: Created a Smart Water Irrigation System powered by **Hedera Blockchain** and **Drone Technology**.
+- 🎖️ **Best Project of the Year - Bal de Projet**: Recognized for *Cazador*, an AI-driven hunting app.
 
 ---
 
