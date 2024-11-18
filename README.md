@@ -15,28 +15,28 @@
 
 ---
 
-## 🛠️ Technical Expertise
+## 📱 **Tech Stack**
 
 ### **Mobile Development**
-- **Flutter**: Mastery in cross-platform mobile development with frameworks like **BLoC**, **Provider**, and **GetX**.
-- **Android (Kotlin)**: Building robust and scalable native Android applications.
-- **iOS (Swift)**: Specialized in **SwiftUI** and advanced tools like **VisionKit** and **SceneKit**.
+<div align="center">
+  <img src="https://media.giphy.com/media/ZvLUtCwKEGFSgOsNo2/giphy.gif" alt="Mobile Development GIF" width="150">
+</div>
+
+- **Flutter**: Expert in cross-platform mobile development.
+- **Kotlin**: Robust native Android development.
+- **Swift**: Specialized in **ARKit** and **RealityKit**.
 
 ### **AI & Machine Learning**
-- Advanced Object Detection with **YOLO** and **TensorFlow**: Achieved a **37% improvement** in accuracy during security systems optimization.
-- **NLP and Transformers**: Leveraging state-of-the-art models for text analysis and language processing.
-- **AI-Powered Applications**: Integrated AI models for real-time device detection, achieving **88% accuracy boost** in IoT applications.
+<div align="center">
+  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" alt="AI GIF" width="150">
+</div>
 
-### **Backend Development**
-- **Spring Boot**: Developing enterprise-grade applications with scalable microservices architecture.
-- **Node.js**: Efficient API and server development.
-
-### **DevOps Tools**
-- **Docker & Jenkins**: Ensuring seamless CI/CD pipelines.
-- **Firebase**: Real-time database management and cloud integration.
-- **SonarQube**: Code quality assurance.
+- Advanced Object Detection using **YOLO** and **TensorFlow**.
+- NLP models for real-time analysis.
+- AI-powered IoT applications with **88% accuracy boost**.
 
 ---
+
 
 ## 🌟 **Highlighted Projects**
 <div align="center">
