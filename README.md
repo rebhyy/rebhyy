@@ -60,7 +60,7 @@
     <img alt="Google Play Badge" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="60px">
   </a>
   <a href="https://apps.apple.com/us/app/abwaab/id1623367993">
-    <img alt="iOS App Store Badge" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Download_on_the_App_Store_Badge.svg" height="60px">
+    <img alt="iOS App Store Badge" src="https://img.favpng.com/18/23/8/app-store-apple-download-logo-png-favpng-2BMS9KidgmX2fHMtAhjpVHway.jpg" height="60px">
   </a>
 </div>
 
