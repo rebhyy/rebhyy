@@ -11,9 +11,7 @@
 
 - 🥇 **Apple Swift Student Challenge Winner 2024**: Created *NewRoot*, a groundbreaking iOS app that blends AR, storytelling, and education using advanced technologies like **SwiftUI**, **RealityKit**, and **ARKit**.
 - 🥇 **1st Place - Empower X-Hack**: Innovated a Smart Water Irrigation System powered by **Hedera Blockchain** and **Drone Technology**.
-- 🥉 **Major of Promotion (2023-2024)**: Top-performing student in the Mobile Information Systems (SIM) option at ESPRIT.
 - 🎖️ **Best Project of the Year - Bal de Projet**: Recognized for *Cazador*, an AI-driven app enhancing wild boar hunting safety.
-- 🏅 **Unity C# Mobile Game Dev Certificate**: Demonstrated expertise in game development for mobile platforms.
 
 ---
 
